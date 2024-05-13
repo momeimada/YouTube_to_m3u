@@ -16,4 +16,4 @@ Paste this URL: `https://raw.githubusercontent.com/manabray/bdyttv/main/youtube.
 
 ### Credit 
 
-https://github.com/manabray
+https://github.com/benmoose39

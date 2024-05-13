@@ -1,4 +1,4 @@
-<h1 align="center">BD YouTube TV Channel to m3u</h1>
+<h1 align="center">BD TV Youtube Live to M3U</h1>
 
 [![M3U generator](https://github.com/manabray/bdyttv/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/manabray/bdyttv/actions/workflows/m3u_Generator.yml)
 

@@ -2,7 +2,7 @@
 
 [![M3U generator](https://github.com/manabray/bdyttv/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/manabray/bdyttv/actions/workflows/m3u_Generator.yml)
 
-`https://raw.githubusercontent.com/manabray/bdyttv/main/youtube.m3u'
+`https://raw.githubusercontent.com/manabray/bdyttv/main/youtube.m3u`
 
 Updated m3u links of YouTube live channels, **auto-updated every 30 minutes**.
 

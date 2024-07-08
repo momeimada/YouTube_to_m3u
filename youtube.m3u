@@ -15,20 +15,7 @@
 https://raw.githubusercontent.com/momeimada/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Gazi TV Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720495648/ei/wFmMZpbuMqHSsfIP0qGesA8/ip/52.234.38.128/id/zYekSeEyB-4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAY1nd8Darj0EGGmSuO2HWKxOKy1TpZgfI_n1Ef6vYaFGtOiKMcgyZ0TaoQM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGHL_KL3JkVSKpQpcsB_B0cwN7ZR3nRj0MUa6odVrMDQCIFSrrd16MFDaQTohPpHWMNVMxYiMsM6Vy8I33C44m8eT/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720495998/ei/HluMZsD-EZ2LkucPl_Gh8A8/ip/74.249.5.189/id/zYekSeEyB-4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAT4U4QcDWjicS_UbvWWMEqRb5XrRneHD85KNmxg5y7ys6anjRvrBcezBh6k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgINEakBO--Vjat0q2vMsFqVPBB7VOvk3zCwVwoqul1RMCIQC_8fKye7yUKK7v6WiCAUSKT5FbVPmKhBySliMmvn_QBQ%3D%3D/file/index.m3u8
 
-
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
-https://stream.wpbond.com/live/imamalitv.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/K9tr4a4dQb-yMy6grUlPORiNd7xz4BmaAFluQn3hlhss-A8NVr7jgn01TZ7KIXJ3cKzsUqCsQw=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",الطليعة
-http://95.216.180.111:1935/live/36/index.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQkphS_25VuyWloCkCrbguJ2-qUVrjA0IEp-UFl=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ", الأيام
-http://95.216.180.111:1935/live/6/index.m3u8
-
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen
-https://ch14.tv/live/ch4teen1/playlist.m3u8
-
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
-http://95.216.180.111:1935/live/45/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", production
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720495998/ei/HluMZq-yNc6FkucPyeu1-Ac/ip/74.249.5.189/id/oogAftUHods.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaEpW2HemUt9OMdKTcgRzik9iddVfXknceO7hv78b57Kw_3DS3KGgxSrVpU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDPC5ttt6-CQvsE_Oafb1PL0clmy-lLgkvZS3tLRAN9kCIGEAs-ZWdE7DkCU3rLE6k7DouF2EbujaPYM_YN5zNwW-/file/index.m3u8

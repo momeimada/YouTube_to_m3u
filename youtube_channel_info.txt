@@ -9,9 +9,5 @@ Gazi TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTV
 https://www.youtube.com/@KarbalatvGroup/live
 
 
-
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
-https://stream.wpbond.com/live/imamalitv.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/K9tr4a4dQb-yMy6grUlPORiNd7xz4BmaAFluQn3hlhss-A8NVr7jgn01TZ7KIXJ3cKzsUqCsQw=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",الطليعة
-http://95.216.180.111:1935/live/36/index.m3u8
+production| Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
+https://www.youtube.com/@AlQarmaziProductions/live

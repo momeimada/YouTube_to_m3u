@@ -10,3 +10,18 @@
 #                                  >> https://github.com/benmoose39     #
 #########################################################################
 
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", بيرق
+https://raw.githubusercontent.com/momeimada/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", كربلاء
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720528659/ei/s9qMZvHTLPTAsfIPhpKI0AU/ip/4.227.114.180/id/zYekSeEyB-4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214394/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAU8w5tz1l8gMMYEVJ8I738A_JNK9aA1zylyIDjS75nghxNDtyf-eKm5HSTE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcsGGtYfzvtEwwdu1E68cGGZKBYzlDNYo0ymlrcFPOaYCIQCyZp_C_88p6V7FtyaztlxOZWW0ViJ1g8LQEjwnhE-INw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", AlQarmaziProductions
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720528660/ei/tNqMZtS5FabisfIPmNG8sAE/ip/4.227.114.180/id/fT6MemMeGD0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAXUyjSxcSA1usdlAEe7g3X0xPD7GPmH0ASURdmJv0TKBpt4EXcFupl0I8gs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgX9umCbcRB3_q7Gxun7NhL43BYoq5Z87HnYvHVRX2ir8CIQCGA5SCmQYyhJjHiOj-_WWigxW93WXN5iJLKOXT0YfW-Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", الشعائر
+https://raw.githubusercontent.com/momeimada/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", ImamAliNet
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720528661/ei/tdqMZqf1EcTmsfIPm6OS8AM/ip/4.227.114.180/id/_Qc5HiE9FBI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAU8dEtcmcv14i33W_P8hHgTiXa3QiK1mP0Qz07FkFTedNow422-XficqMqs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALyQOWCnp7DmPe-Gaj3_FjLE-CKtqUEmxo1ymGJ6cQhwAiB7HEcMnK_tlCjWPQGgUr7x9VvhldwfHr7nQVOCyfLVUg%3D%3D/file/index.m3u8

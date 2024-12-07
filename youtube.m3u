@@ -312,7 +312,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_qnW-VSIBNXd1LJRD3Ud6bYSERVFJ4GBlO0U=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NTV Kenya Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606046/ei/PmZUZ9OLMNjHsfIP_ruqwA0/ip/20.172.0.43/id/5doViUDy_sI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337000/txs/51336999%2C51337000%2C51337001/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAYTd9v2vx82yo_FsM_QlWXuUoTy3e5y-iGP-ULEyqeduPWMC2VNUVhwUuww/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJcm0LB8RhG1v-rSzScdW0UtuVpUvhrILwXepVUlhOr0AiEAo8GMnDrYLZ93DB8Mr8pJ4Bn7NyjNFGZILZk2KL2jUw0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkcR_PzChnpoy_CFEHOhBJoWYzJPUOryL2McEGBSQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KTN News Kenya
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -327,10 +327,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606052/ei/RGZUZ-eGB9PasfIPvNbJuQ4/ip/20.172.0.43/id/rFlFWQC0QPw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51326656/txs/51326650%2C51326651%2C51326652%2C51326653%2C51326654%2C51326655%2C51326656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAa2Cx64Gb_BeReqUj2wvQv5FiSdr3TCP494tO4k9-Kf7c0AvexaI4MoT_ds/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGGvi2jqCpenZkA1yG3-v-GrC1YWeWdFx0ITzlzHct6sCIQD1p18BFpw1g9h2C26UO4UExlC0DKSgjH23UDxkIkdBWA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606053/ei/RWZUZ7LQHaGLsfIP64Wi0Ak/ip/20.172.0.43/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51336999/txs/51336999%2C51337000%2C51337001/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAeCuU1jZFHVS1VrnOquua_rDithP1dFL8gYh4jWcvgrlbAz7jdWn4LEtP54/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIdComlbWYQReTQtINfGaW1ad8Dc8tavpjpBcyzgbigvAiEAguEUbBebqKPfNnJvcQzhlUds9kuzia6vrqYz3_dqT5g%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ABP NEWS
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -342,7 +342,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/178/61/png-transparent-ary-news-pakistan-electronic-media-regulatory-authority-breaking-news-news-live-text-rectangle-logo-thumbnail.png" tvg-id="", ARY News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606057/ei/SWZUZ5bwLOPAsfIP0Pm2-AU/ip/20.172.0.43/id/sUKwTVAc0Vo.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAS7KTQpv668P_qS3erZ8_qgV4kUT5LckhVTd2UwZh6FqYqjvE0brAqVlAJ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKJ6Y0N_pz4jM0M5kwkQ1Ht9-MYkrPpJmVSbJWk2dS0XAiEA7lDlxGpEiOAQ75I6mO_L-fr1WmJcjd5HLCQ72RquIOY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540954.png" tvg-id="", SAMMA News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

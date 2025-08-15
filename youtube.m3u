@@ -447,7 +447,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="" tvg-id="", Molek FM live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755314104/ei/WKOfaKanHoyylu8P76LT4As/ip/135.232.176.164/id/mIaYkjKTfXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN3UcUEQhSV4hegTAPpAxIxGDc1tpu7OjfAgqzN4dWVjqJOqpXUuWiDfPCmMdtPGD-swJSu375Z/spc/l3OVKWN8iF6eHAiZ0PaIzTrtQHwFeSgmQAO7q6_Yl1VzX94lx2QTto-MKZKbLFe6PAg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdufn7yuU7jltU7pqB9IOBcNsM-uuGU_8gL0To4u4vD0CIQDpJkRWStUWHRZet6DbgenqI7qbD52LdD5nZVhGtgB1Jg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

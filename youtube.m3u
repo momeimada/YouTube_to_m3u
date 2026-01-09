@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767952839/ei/Z31gac7iKb6c2_gP1-7R0QM/ip/52.173.182.162/id/KeAuH_bcbwU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BlByZw320n1_nBPTA41saV36yk14fb5S4KyJCZSGWhB3NM0iKQKx9TbUIchGiXQC2bQ66eSrW7/spc/wH4Qqz2BqszmKvOHY4_TTwxk19NdHx5iPDm0RAd6nrFQzlelWk3R9gzbiDQnFTZvQ6s/vprv/1/go/1/ns/VDoOA3AFHX828gHSnXJRuwgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/VQXfP9TUA6V1Ck56iLu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbeHMC9-3O2mdRLS417iPGN2Ipdfipd91zVcvTm3lIq8CIAz5gRV_MvvkQiQ4tpVDFygDoj1Z9yIM8DhiCwfL_vgI/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

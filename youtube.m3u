@@ -675,13 +675,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769107306/ei/Chtyad69AaKLlu8PkebwiAw/ip/132.196.82.5/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oGF5KQ73l-U8Dn2ZCoZ8mxlJRaocX8r2_6qqoTjr0rur4tR2WstTImspr346Kq322nxTFZczKF/spc/q5xjPHLaI_Reaut0OhAImFmKTz4l_lB5lHTU6k777Fj2Q0XvlgAgVcenM1hqcsShXxM-TQ/vprv/1/go/1/ns/NKK3hjXmF26st2QBJOjUr00S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/uPqsOTrvEOEdLI8e5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAKjf1nboSJyY6lqZv0Lc-6BuLkknctQntnJFocphqIXFAiEAq2BYBmxY8bF3qbDr-xzYdwSOD3GG2jssaTKMLHEtpXc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chill Out Music Mixe
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769107308/ei/DBtyadiXCduY2_gPqNLm6Qg/ip/132.196.82.5/id/m52ynxt1mOo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rrL1JbiqrsH52iGuY0BIAlr_XOgPoeqom5fMH6pY9q_KWeYUs5uuEka6zv2DsjS_52MhlbgNzc/spc/q5xjPAoTLGXaDKNod5zTk9x7nYOg2DFyZ7WaXbiTKpJSWXojlYNBbMALgTQgfiEH0qwdTQ/vprv/1/go/1/ns/P9F8jPt9gFDIJ5vPkHc2pNUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/D5jkuCIu_yzMlSICJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgcn4ePZ9BB4jWS_zKz4YccO0Zl037g6I--DpRE4mBxmICIFu0rl9tWsHSNcZYLViH6qintLv7lehS5LdxvNcrb7ia/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
